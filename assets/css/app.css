@@ -536,6 +536,18 @@ top: 48px;
 
 #oportunidadeslistings ul li { height: 300px;   }
 
+/* Luis */
+
+#buho {
+  position: relative;
+  right: -220px;
+  bottom: 10px;
+}
+
+#spacing {
+  position: relative;
+  margin-left: 20px; 
+}
 
 
 
